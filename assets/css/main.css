@@ -9,17 +9,17 @@
    =============================================== */
 
 /* ===============================================
-   1. IMPORTS
+   1. IMPORTS (✅ 已修复：全部加了 ./ )
    =============================================== */
-@import url('components/_header.css');
-@import url('components/_hero.css');
-@import url('components/_about.css');
-@import url('components/_projects.css');
-@import url('components/_socials.css');
-@import url('components/_skills.css');
-@import url('components/_contact.css');
-@import url('components/_footer.css');
-@import url('components/_sites.css');
+@import url('./components/_header.css');
+@import url('./components/_hero.css');
+@import url('./components/_about.css');
+@import url('./components/_projects.css');
+@import url('./components/_socials.css');
+@import url('./components/_skills.css');
+@import url('./components/_contact.css');
+@import url('./components/_footer.css');
+@import url('./components/_sites.css');
 
 
 /* ===============================================
